@@ -1,4 +1,4 @@
-# SummaRuNNer
+# SummaRuNNer（实现基本没问题）
 Tensorflow implementation  of SummaRuNNer
 
 the version of Tensorflow is 1.2.0
